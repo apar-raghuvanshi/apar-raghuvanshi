@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,machine learning,deep learning,dbms,mysql,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,pytorch,git,github,html,css" />
 </p>
 
 ---
